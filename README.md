@@ -311,6 +311,7 @@ q).p.py2q .p.call[.p.get`f4;1 2;`d`c!4 3]
 2 12
 ```
 
+
 ### Wrapping Python objects as q dictionaries 
 
 It can be useful to extract the contents of a Python object into a q dictionary.  
